@@ -1,4 +1,4 @@
-/*
+
 
 # GIT
 !.gitignore
@@ -6,6 +6,8 @@
 !LICENSE
 !.github/
 !.github/*
+
+!App/*
 
 
 # NIX
@@ -19,6 +21,10 @@
 !.clang-format
 !*.ld
 cmake/
+cmake-build-debug/
+
+/.idea/
+/.vscode/
 
 # BASE
 !Core
