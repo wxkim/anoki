@@ -45,6 +45,10 @@ SPI_HandleTypeDef hspi1;
 
 /* USER CODE BEGIN PV */
 
+//todo fix cmake
+//todo add openocd
+//todo integrate drivers to files from mains
+
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
