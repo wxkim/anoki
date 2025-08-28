@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/Core/Src/main.c.obj -c /Users/code/anoki/Core/Src/main.c",
+  "file": "/Users/code/anoki/Core/Src/main.c",
+  "output": "CMakeFiles/rings-beamformer.dir/Core/Src/main.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/Core/Src/stm32u5xx_it.c.obj -c /Users/code/anoki/Core/Src/stm32u5xx_it.c",
+  "file": "/Users/code/anoki/Core/Src/stm32u5xx_it.c",
+  "output": "CMakeFiles/rings-beamformer.dir/Core/Src/stm32u5xx_it.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/Core/Src/stm32u5xx_hal_msp.c.obj -c /Users/code/anoki/Core/Src/stm32u5xx_hal_msp.c",
+  "file": "/Users/code/anoki/Core/Src/stm32u5xx_hal_msp.c",
+  "output": "CMakeFiles/rings-beamformer.dir/Core/Src/stm32u5xx_hal_msp.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/Core/Src/sysmem.c.obj -c /Users/code/anoki/Core/Src/sysmem.c",
+  "file": "/Users/code/anoki/Core/Src/sysmem.c",
+  "output": "CMakeFiles/rings-beamformer.dir/Core/Src/sysmem.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/Core/Src/syscalls.c.obj -c /Users/code/anoki/Core/Src/syscalls.c",
+  "file": "/Users/code/anoki/Core/Src/syscalls.c",
+  "output": "CMakeFiles/rings-beamformer.dir/Core/Src/syscalls.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles/rings-beamformer.dir/startup_stm32u575xx.s.obj -c /Users/code/anoki/startup_stm32u575xx.s",
+  "file": "/Users/code/anoki/startup_stm32u575xx.s",
+  "output": "CMakeFiles/rings-beamformer.dir/startup_stm32u575xx.s.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/App/Src/awmf210.c.obj -c /Users/code/anoki/App/Src/awmf210.c",
+  "file": "/Users/code/anoki/App/Src/awmf210.c",
+  "output": "CMakeFiles/rings-beamformer.dir/App/Src/awmf210.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/App/Src/laura.c.obj -c /Users/code/anoki/App/Src/laura.c",
+  "file": "/Users/code/anoki/App/Src/laura.c",
+  "output": "CMakeFiles/rings-beamformer.dir/App/Src/laura.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/App/Src/soham.c.obj -c /Users/code/anoki/App/Src/soham.c",
+  "file": "/Users/code/anoki/App/Src/soham.c",
+  "output": "CMakeFiles/rings-beamformer.dir/App/Src/soham.c.obj"
+},
+{
+  "directory": "/Users/code/anoki",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/App/Inc -I/Users/code/anoki/Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/rings-beamformer.dir/App/Src/usb-spi-control.c.obj -c /Users/code/anoki/App/Src/usb-spi-control.c",
+  "file": "/Users/code/anoki/App/Src/usb-spi-control.c",
+  "output": "CMakeFiles/rings-beamformer.dir/App/Src/usb-spi-control.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32u5xx.c.obj -c /Users/code/anoki/Core/Src/system_stm32u5xx.c",
+  "file": "/Users/code/anoki/Core/Src/system_stm32u5xx.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32u5xx.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cortex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cortex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cortex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_cortex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c_ex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c_ex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash_ex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash_ex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gpio.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma_ex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma_ex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_exti.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_exti.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_exti.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_exti.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr_ex.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr_ex.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr_ex.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gtzc.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gtzc.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gtzc.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_gtzc.c.obj"
+},
+{
+  "directory": "/Users/code/anoki/cmake/stm32cubemx",
+  "command": "/opt/homebrew/bin/arm-none-eabi-gcc -DDEBUG -DSTM32U575xx -DUSE_HAL_DRIVER -I/Users/code/anoki/cmake/stm32cubemx/../../Core/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/STM32U5xx_HAL_Driver/Inc/Legacy -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32U5xx/Include -I/Users/code/anoki/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m33 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_icache.c.obj -c /Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_icache.c",
+  "file": "/Users/code/anoki/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_icache.c",
+  "output": "cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_icache.c.obj"
+}
+]

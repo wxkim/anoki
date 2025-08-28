@@ -9,6 +9,13 @@
 
 !App/*
 
+*.idx
+
+CMakeFiles/
+
+Makefile
+build/
+
 
 # NIX
 !default.nix
